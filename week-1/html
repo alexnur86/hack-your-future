@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+ <title>My CV</title>
+</head>
+<body>
+<div>
+ <img src="alex.jpg" height="150"/>
+   <h1 align="center">Curriculum Vitea</h1><br>
+ <h1>Personal information</h1>
+
+ Ali Nur<br>
+ Östra Fäladsgatan 4A<br>
+ 21 224 Malmö<br>
+ 0765851431<br>
+ E-mail: alinurmed@gmail.com<br>
+ Födelsedatum: 1986-06-20<br>
+ Civilstånd: Gift<br>
+ </div>
+ <div>
+ <h2>Anställningar</h2>
+ <ul>
+<li>Stödassistent Lund kommun (vikariat)                 2017/03 – 2017/08</li><br>
+<li>Catering personal                     Malmö, Adecco konsult                          2016/04 – 2016/09</li><br>
+<li>Behandlingsassistent                   Malmö stad                                                2015/08 – 2016/02</li><br>
+<li>Lokalvårdare                               Allrent Servicebolag i Malmö                 2014/09 – 2015/07</li><br>
+<li>lagararbetare                                Zeunerts i Norrland AB                               2012/04 – 2012/10</li><br>
+ </ul>
+ </div>
+ <div>
+ <h3>Utbildning</h3>
+ <ul>
+<li>IMER Kandidatexam                    Malmö Universistet                               2012/09 – 2015/06</li><br> 
+<li>Dynamisk konflikthantering  Malmö stad                                      2016/01 – 2016/01</li><br>
+ </ul>
+ </div>
+ <div>
+ <h4>Språk</h4>
+ <ul>
+   <li><strong>Svenska</strong>          Goda kunskaper</li><br>
+   <li><strong>Engelska</strong>          Mycket goda kunskaper</li><br>
+   <li><strong>Arabiska</strong>          Mycket goda kunskaper</li><br>
+   <li><strong>Afariska</strong>          Modersmål</li><br>
+   <li><strong>Amhariska</strong>      Mycket goda kunskaper</li><br>
+   <li><strong>Tigringna</strong>        Mycket goda kunskaper</li><br>
+ </ul>
+ </div>
+ <div>
+ <h5>Datakunskaper</h5>
+ <ul>
+   <li>MS office och WordPress</li><br>
+ </ul>
+</div>
+
+
+
+
+ 
+ 
+</body>
+</html>

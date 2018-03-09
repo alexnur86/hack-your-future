@@ -1,0 +1,34 @@
+h1 {
+     color: rgb(black);
+     font-size: 1.5em;
+   }
+h2 {
+ color: rgb(black);
+ font-size: 1.5em;
+ 
+}
+h3 {
+ color: rgb(black);
+ font-size: 1.5em;
+}
+h4 {
+ color: rgb(black);
+ font-size: 1.5em;
+}
+h5 {
+ color: rgb(black);
+ font-size: 1.5em;
+}
+div{
+	text-align:center;
+}
+li{
+	display: block;
+    padding: 8px 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+body {
+  background-color: rgb(100, 300, 150);
+ 
+}
